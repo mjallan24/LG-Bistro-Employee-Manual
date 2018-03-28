@@ -1,4 +1,4 @@
-![LGB Banner](https://goo.gl/images/5YM7nW)
+![LGB Banner](legrandbistro.png)
 
 # Le Grand Bistro Employee Manual
 
